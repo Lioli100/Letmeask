@@ -51,7 +51,6 @@ export function AdminRoom() {
       isHighlighted: true,
     })
   }
-
   return (
     <div id="page-room">
       <header>
